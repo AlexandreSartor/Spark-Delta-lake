@@ -6,7 +6,7 @@ Recomenda-se utilizar o WSL no Windows 11 ou outra distribuição Linux. Evite r
 
 Neste laboratório, foi adotado o Ubuntu 24.04 como sistema operacional.
 
-![Delta Lake Logo](Imagens\ubuntu_version.png)
+(<img width="981" height="444" alt="Image" src="https://github.com/user-attachments/assets/a891416a-8018-4f5d-945b-5a2abb2194a6" />)
 
 Versão do python utilizada: 3.13.7.
 
@@ -44,6 +44,7 @@ Links para aprendizado sobre Apache/Spark e Delta Lake
 https://www.youtube.com/watch?v=eOrWEsZIfKU&t=2316s
 
 https://www.youtube.com/watch?v=WwrX1YVmOyA&t=853s
+
 
 
 
